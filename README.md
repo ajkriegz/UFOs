@@ -34,7 +34,7 @@ You can see that we've narrowed down the results quite a bit! To remove the filt
 
 ### Drawbacks
 
-One drawback to this webpage is the ambiguity of the data. What other countries have catalogued UFO sightings? What is the range of dates included in the data? What are all the different types of shapes reported? How long will the user have to search before they come across "teardrop" listed as a shape? Additionally, only one misspelled criterion returns an empty table.
+One drawback to this webpage is the ambiguity of the data. What other countries have catalogued UFO sightings? What is the range of dates included in the data? What are all the different types of shapes reported? How long will the user have to search before they come across "teardrop" listed as a shape? Additionally, if even one criterion is misspelled, the filter returns an empty table.
 
 ### Recommendations
 
